@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> **This is an earlier personal copy and is no longer maintained.** The maintained version,
+> with current releases and the `@v1` tag, is
+> [**shata-solutions/engineering-os-tools**](https://github.com/shata-solutions/engineering-os-tools).
+> Use `uses: shata-solutions/engineering-os-tools/...@v1` in new workflows. This copy stays in
+> place so existing references keep working.
+
 # engineering-os-tools
 
 Two small, zero-dependency Node.js scripts and their matching GitHub Actions reusable
